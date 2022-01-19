@@ -1,6 +1,6 @@
-# repositorio do desafio da DIO
-desafio de projeto
+# Repositório da DIO
+Desafio de projeto
 
-##Links uteis
+##Links úteis
 
-[Sintaxe basica](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown/#open) 
+[Sintaxe básica](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown/#open) 
